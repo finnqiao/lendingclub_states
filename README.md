@@ -2,7 +2,7 @@
 
 Variables from Lending Club data:
 
-loan_amnt - The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
+loan_amnt - The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value. \n
 funded_amnt - The total amount committed to that loan at that point in time.
 term - The number of payments on the loan. Values are in months and can be either 36 or 60.
 int_rate - Interest Rate on the loan
